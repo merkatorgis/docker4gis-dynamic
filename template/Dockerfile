@@ -1,4 +1,4 @@
-FROM docker4gis/dynamic:latest
+FROM docker4gis/dynamic:v0.0.1
 
 # Set SUB to a folder beneath /fileport/root to narrow the wwwroot scope.
 ENV SUB=
