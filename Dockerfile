@@ -1,4 +1,4 @@
-FROM docker4gis/serve:v0.0.14
+FROM docker4gis/serve:v0.0.15
 
 ENV DYNAMIC=true
 
